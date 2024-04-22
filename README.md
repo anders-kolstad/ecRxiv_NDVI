@@ -11,7 +11,7 @@ However, indicator calculations/designs are often quite technical and includes m
 Thus is a need to document these workflows in order to validate and review their soundness and relevance for describing ecosystem condition.
 This documentation would also be a benefit the ecosystem condition indicator community of practice because it would make it easier to learn from each other and develop the field quicker.
 
-## **How to use ECindicators**
+## *How to use ECindicators*
 
 On this site (this GitHub repository) you can submit technical documentation about your ecosystem condition indicators and have it published on an online web application in a standardised format along side other indicators from anywhere in the world.
 
