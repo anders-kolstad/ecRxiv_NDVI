@@ -1,7 +1,8 @@
 ---
 title: "template"
-format: html
-editor: visual
+format: 
+  html:
+    embed-resources: true
 ---
 
 <!-- This is a template for how to document the indicator analyses. 
